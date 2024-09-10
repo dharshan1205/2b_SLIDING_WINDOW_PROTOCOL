@@ -1,5 +1,9 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## AIM
+NAME: INFANCIA FELCY P
+REG NO: 212223040067
+
+## AIM:
+To write a python program for Implementation of sliding Window Protocol.
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
